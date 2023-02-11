@@ -6,9 +6,11 @@ Module lead: Surya Thottam Valappil
 Supervisor: Miah-George Thompson
 
 
+
 Brief: "Volunteer Management for Sports Clubs"
 
 Client: Stuart Allen
+
 
 
 Members:
