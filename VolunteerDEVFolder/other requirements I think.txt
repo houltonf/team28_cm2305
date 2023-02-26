@@ -1,0 +1,3 @@
+pip install flask_sqlalchemy --user
+pip install flask_login --user
+pip install flask_wtf --user
